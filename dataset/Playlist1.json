@@ -1,0 +1,1490 @@
+{
+  "playlists": [
+    {
+      "name": "French Songs",
+      "lastModifiedDate": "2021-01-11",
+      "items": [
+        {
+          "track": {
+            "trackName": "Bad boy",
+            "artistName": "Marwa Loud",
+            "albumName": "Loud",
+            "trackUri": "spotify:track:0RE4crnT3jRms1xxVlEZx2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ça va ça vient",
+            "artistName": "Vitaa",
+            "albumName": "VersuS",
+            "trackUri": "spotify:track:3xbws1uOAaxeTPEviKWONY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Le verbe",
+            "artistName": "L.E.J",
+            "albumName": "Poupées russes",
+            "trackUri": "spotify:track:1uFrN9rPz3BuOZ9OSIYHno"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ninja",
+            "artistName": "Soprano",
+            "albumName": "Phoenix",
+            "trackUri": "spotify:track:2imLYhuE0rBYnSrhXDOaRX"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "La dalle",
+            "artistName": "L.E.J",
+            "albumName": "En attendant l’album",
+            "trackUri": "spotify:track:7Gz7hw8hcSdgV0j5gN5x92"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mercy",
+            "artistName": "Madame Monsieur",
+            "albumName": "Mercy",
+            "trackUri": "spotify:track:29eZ3b1mfZIwOMQMdRFNZ0"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Songs",
+      "lastModifiedDate": "2020-06-15",
+      "items": [
+        {
+          "track": {
+            "trackName": "Blow Your Mind (Mwah)",
+            "artistName": "Dua Lipa",
+            "albumName": "Blow Your Mind (Mwah)",
+            "trackUri": "spotify:track:7kJlTKjNZVT26iwiDUVhRm"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "IDGAF",
+            "artistName": "Dua Lipa",
+            "albumName": "Dua Lipa",
+            "trackUri": "spotify:track:76cy1WJvNGJTj78UqeA5zr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sorry Not Sorry",
+            "artistName": "Demi Lovato",
+            "albumName": "Tell Me You Love Me",
+            "trackUri": "spotify:track:7gvd8xj4QgPqbQSsn5pV7d"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Havana (feat. Young Thug)",
+            "artistName": "Camila Cabello",
+            "albumName": "Camila",
+            "trackUri": "spotify:track:1rfofaqEpACxVEHIZBJe6W"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Look What You Made Me Do",
+            "artistName": "Taylor Swift",
+            "albumName": "reputation",
+            "trackUri": "spotify:track:1JbR9RDP3ogVNEWFgNXAjh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Attention",
+            "artistName": "Charlie Puth",
+            "albumName": "Voicenotes",
+            "trackUri": "spotify:track:5cF0dROlMOK5uNZtivgu50"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "That's My Girl",
+            "artistName": "Fifth Harmony",
+            "albumName": "7/27",
+            "trackUri": "spotify:track:2ACOWPLUe4A4KuQ5ioD2od"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Power (feat. Stormzy)",
+            "artistName": "Little Mix",
+            "albumName": "Glory Days: The Platinum Edition",
+            "trackUri": "spotify:track:02gj0J38nzyO9lNi9mzi3A"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Most Girls",
+            "artistName": "Hailee Steinfeld",
+            "albumName": "Most Girls",
+            "trackUri": "spotify:track:10GJQkjRJcZhGTLagFOC62"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cool Girl",
+            "artistName": "Tove Lo",
+            "albumName": "Lady Wood",
+            "trackUri": "spotify:track:3tJ4y2Zqx6gM9xOAuFfsSF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Have Questions",
+            "artistName": "Camila Cabello",
+            "albumName": "I Have Questions",
+            "trackUri": "spotify:track:3NgCzSW98SsqBdpYcnm4kv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Strip That Down",
+            "artistName": "Liam Payne",
+            "albumName": "Strip That Down",
+            "trackUri": "spotify:track:4Ro98RCK90oHqqSZUnTFq5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "By Your Side",
+            "artistName": "Jonas Blue",
+            "albumName": "Blue",
+            "trackUri": "spotify:track:4QTuyRQshEZYurtIDfE6g0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Scars To Your Beautiful",
+            "artistName": "Alessia Cara",
+            "albumName": "Know-It-All",
+            "trackUri": "spotify:track:0prNGof3XqfTvNDxHonvdK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "There's Nothing Holdin' Me Back",
+            "artistName": "Shawn Mendes",
+            "albumName": "Illuminate",
+            "trackUri": "spotify:track:7JJmb5XwzOO8jgpou264Ml"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wolves",
+            "artistName": "Selena Gomez",
+            "albumName": "Wolves",
+            "trackUri": "spotify:track:0tBbt8CrmxbjRP0pueQkyU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Never Be the Same",
+            "artistName": "Camila Cabello",
+            "albumName": "Camila",
+            "trackUri": "spotify:track:4eWQlBRaTjPPUlzacqEeoQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Swish Swish",
+            "artistName": "Katy Perry",
+            "albumName": "Witness",
+            "trackUri": "spotify:track:3OtMnyUaiipcAT23A8liyi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dusk Till Dawn - Radio Edit",
+            "artistName": "ZAYN",
+            "albumName": "Dusk Till Dawn",
+            "trackUri": "spotify:track:1j4kHkkpqZRBwE0A4CN4Yv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "...Ready For It?",
+            "artistName": "Taylor Swift",
+            "albumName": "reputation",
+            "trackUri": "spotify:track:4CdVzZTnf7JElTDw0kyUiN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Really Don't Care",
+            "artistName": "Demi Lovato",
+            "albumName": "Demi",
+            "trackUri": "spotify:track:5vTPxzm4h2bY9rYyVrGEU5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Crying in the Club",
+            "artistName": "Camila Cabello",
+            "albumName": "Crying in the Club",
+            "trackUri": "spotify:track:1SJtlNRJDeYHioymcvsqev"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "no tears left to cry",
+            "artistName": "Ariana Grande",
+            "albumName": "Sweetener",
+            "trackUri": "spotify:track:2qT1uLXPVPzGgFOx4jtEuo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fetish (feat. Gucci Mane)",
+            "artistName": "Selena Gomez",
+            "albumName": "Fetish (feat. Gucci Mane)",
+            "trackUri": "spotify:track:4lnAN2S1fcI0SjxEbksZVr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "OMG (feat. Quavo)",
+            "artistName": "Camila Cabello",
+            "albumName": "OMG (feat. Quavo)",
+            "trackUri": "spotify:track:4xBjsLUSjcx2h7PcRikpQp"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Angel",
+            "artistName": "Fifth Harmony",
+            "albumName": "Fifth Harmony",
+            "trackUri": "spotify:track:3YB3dT8zhaBxDTXlggRqh6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bon appétit",
+            "artistName": "Katy Perry",
+            "albumName": "Witness",
+            "trackUri": "spotify:track:4rHmKlFRiFzabiVO6e9w2e"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tell Me You Love Me",
+            "artistName": "Demi Lovato",
+            "albumName": "Tell Me You Love Me",
+            "trackUri": "spotify:track:1MKZaAEx8RrzoQjHhVuvgs"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Strangers",
+            "artistName": "Halsey",
+            "albumName": "hopeless fountain kingdom",
+            "trackUri": "spotify:track:11EDhDAVDtGPoSar6ootYA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Cure",
+            "artistName": "Lady Gaga",
+            "albumName": "The Cure",
+            "trackUri": "spotify:track:34oB5r0lcN3fYWCs2uA1k5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chained To The Rhythm",
+            "artistName": "Katy Perry",
+            "albumName": "Witness",
+            "trackUri": "spotify:track:7qvxFz3JodM0A7xEM7k3YD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Now Or Never",
+            "artistName": "Halsey",
+            "albumName": "hopeless fountain kingdom",
+            "trackUri": "spotify:track:7i2DJ88J7jQ8K7zqFX2fW8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Way I Are (Dance with Somebody) [feat. Lil Wayne]",
+            "artistName": "Bebe Rexha",
+            "albumName": "All Your Fault: Pt. 2",
+            "trackUri": "spotify:track:3ZkUWF1MVm3tLgz7dplGpk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Thunder",
+            "artistName": "Imagine Dragons",
+            "albumName": "Evolve",
+            "trackUri": "spotify:track:1zB4vmk8tFRmM9UULNzbLB"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "FRIENDS",
+            "artistName": "Marshmello",
+            "albumName": "FRIENDS",
+            "trackUri": "spotify:track:08bNPGLD8AhKpnnERrAc6G"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Kissed A Girl",
+            "artistName": "Katy Perry",
+            "albumName": "One Of The Boys",
+            "trackUri": "spotify:track:14iN3o8ptQ8cFVZTEmyQRV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Call Me Maybe",
+            "artistName": "Carly Rae Jepsen",
+            "albumName": "Kiss",
+            "trackUri": "spotify:track:20I6sIOMTCkB6w7ryavxtO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hot N Cold",
+            "artistName": "Katy Perry",
+            "albumName": "One Of The Boys",
+            "trackUri": "spotify:track:0iGckQFyv6svOfAbAY9aWJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Just Dance",
+            "artistName": "Lady Gaga",
+            "albumName": "The Fame",
+            "trackUri": "spotify:track:1dzQoRqT5ucxXVaAhTcT0J"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Be the One",
+            "artistName": "Dua Lipa",
+            "albumName": "Be the One",
+            "trackUri": "spotify:track:1ixphys4A3NEXp6MDScfih"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "One Kiss (with Dua Lipa)",
+            "artistName": "Calvin Harris",
+            "albumName": "One Kiss (with Dua Lipa)",
+            "trackUri": "spotify:track:7ef4DlsgrMEH11cDZd32M6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Begging",
+            "artistName": "Dua Lipa",
+            "albumName": "Dua Lipa",
+            "trackUri": "spotify:track:1LPGXjVWl8EnrnyaOgPpBm"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Swan Song - From the Motion Picture \"Alita: Battle Angel\"",
+            "artistName": "Dua Lipa",
+            "albumName": "Swan Song",
+            "trackUri": "spotify:track:5600nq7TiBraBX2jobyJ3l"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hotter Than Hell",
+            "artistName": "Dua Lipa",
+            "albumName": "Dua Lipa",
+            "trackUri": "spotify:track:5eTNdkstwKaNahHf41fJ9u"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "High (& Dua Lipa)",
+            "artistName": "Whethan",
+            "albumName": "Fifty Shades Freed",
+            "trackUri": "spotify:track:7lAeknkZz0KCk2RmAZESHF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Not the Only One - Live from Spotify, London",
+            "artistName": "Dua Lipa",
+            "albumName": "Spotify Session",
+            "trackUri": "spotify:track:7wIYDzWW82O6Rc4vGuzjND"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "New Love",
+            "artistName": "Dua Lipa",
+            "albumName": "New Love",
+            "trackUri": "spotify:track:4VZXB1paIf867OlmQg89GU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+            "artistName": "Ellie Goulding",
+            "albumName": "Delirium",
+            "trackUri": "spotify:track:2l8w0zZVn4AZNuzrht7MRT"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shameless",
+            "artistName": "Camila Cabello",
+            "albumName": "Romance",
+            "trackUri": "spotify:track:2ogKhhoMClkFXek7ZgxAhN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Señorita",
+            "artistName": "Shawn Mendes",
+            "albumName": "Romance",
+            "trackUri": "spotify:track:3BVgrFWuH01GmCUy9Y2EE8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Liar",
+            "artistName": "Camila Cabello",
+            "albumName": "Romance",
+            "trackUri": "spotify:track:073ILU1C3APNRGF66VhtyA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "This Love",
+            "artistName": "Camila Cabello",
+            "albumName": "Romance",
+            "trackUri": "spotify:track:7cHje4KLujM18aBSLvaySE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ciao Adios",
+            "artistName": "Anne-Marie",
+            "albumName": "Speak Your Mind",
+            "trackUri": "spotify:track:3rmAQdLTHh32rZYosC6rOY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Alarm",
+            "artistName": "Anne-Marie",
+            "albumName": "Speak Your Mind",
+            "trackUri": "spotify:track:3yp6M7FXTFOoSaVxjN5jkS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad Girlfriend",
+            "artistName": "Anne-Marie",
+            "albumName": "Speak Your Mind",
+            "trackUri": "spotify:track:4zCKkJcq6h6mTqLnD2UcYY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rockabye (feat. Sean Paul & Anne-Marie)",
+            "artistName": "Clean Bandit",
+            "albumName": "Speak Your Mind",
+            "trackUri": "spotify:track:6g7dG5bwzCGfjOAkmT2mjI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Can I Get Your Number",
+            "artistName": "Anne-Marie",
+            "albumName": "Speak Your Mind",
+            "trackUri": "spotify:track:5xh6JKVmYjochtEGGT0qxF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sober",
+            "artistName": "Demi Lovato",
+            "albumName": "Sober",
+            "trackUri": "spotify:track:0STK94RxUulYqWzwFlyAb5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Confident",
+            "artistName": "Demi Lovato",
+            "albumName": "Confident",
+            "trackUri": "spotify:track:6WjmPTZKeDylStKmGHLcqQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Solo (feat. Demi Lovato)",
+            "artistName": "Clean Bandit",
+            "albumName": "Solo (feat. Demi Lovato)",
+            "trackUri": "spotify:track:6kPJZM97LwdG9QIsT7khp6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sexy Dirty Love",
+            "artistName": "Demi Lovato",
+            "albumName": "Tell Me You Love Me",
+            "trackUri": "spotify:track:38Ncs9ZEzJzd1ypUjNPsb5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "1999",
+            "artistName": "Charli XCX",
+            "albumName": "1999",
+            "trackUri": "spotify:track:05mAIVLkIWc2d1UBYZBCp8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sweettalk my Heart",
+            "artistName": "Tove Lo",
+            "albumName": "Sunshine Kitty",
+            "trackUri": "spotify:track:4Cgedth1L3nBdVLU5Z42m1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lola",
+            "artistName": "Iggy Azalea",
+            "albumName": "Lola",
+            "trackUri": "spotify:track:6hkr5ZGVOt3Z2BNGE6yqpB"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "5 in the Morning",
+            "artistName": "Charli XCX",
+            "albumName": "5 in the Morning",
+            "trackUri": "spotify:track:62VpKdGyA7OIyUCj3a3LPU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "SuperLove",
+            "artistName": "Charli XCX",
+            "albumName": "Superlove",
+            "trackUri": "spotify:track:3VOc8XhPd85h5xQvePytPz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Love It (feat. Charli XCX)",
+            "artistName": "Icona Pop",
+            "albumName": "THIS IS... ICONA POP",
+            "trackUri": "spotify:track:6HZ9VeI5IRFCNQLXhpF4bq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad Kind of Butterflies",
+            "artistName": "Camila Cabello",
+            "albumName": "Romance",
+            "trackUri": "spotify:track:0Q2kFlgnqusKAqCDpCKAIY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shape of You",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷",
+            "trackUri": "spotify:track:7qiZfU4dY1lWllzX7mPBI3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Perfect",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷",
+            "trackUri": "spotify:track:0tgVpDi06FyKpA1z0VMD4v"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "365",
+            "artistName": "Zedd",
+            "albumName": "365",
+            "trackUri": "spotify:track:2XWjPtKdi5sucFYtVav07d"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lush Life",
+            "artistName": "Zara Larsson",
+            "albumName": "So Good",
+            "trackUri": "spotify:track:1rIKgCH4H52lrvDcz50hS8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ruin My Life",
+            "artistName": "Zara Larsson",
+            "albumName": "Ruin My Life",
+            "trackUri": "spotify:track:5tAa8Uaqr4VvA3693mbIhU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love Me Again",
+            "artistName": "John Newman",
+            "albumName": "Tribute",
+            "trackUri": "spotify:track:5VSCgNlSmTV2Yq5lB40Eaw"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Come And Get It",
+            "artistName": "John Newman",
+            "albumName": "Revolve",
+            "trackUri": "spotify:track:2wluqZRQhEiDvJmsl3C5MA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stir Fry",
+            "artistName": "Migos",
+            "albumName": "Culture II",
+            "trackUri": "spotify:track:2UVbBKQOdFAekPTRsnkzcf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All The Stars (with SZA)",
+            "artistName": "Kendrick Lamar",
+            "albumName": "Black Panther The Album Music From And Inspired By",
+            "trackUri": "spotify:track:3GCdLUSnKSMJhs4Tj6CV3s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pray For Me (with Kendrick Lamar)",
+            "artistName": "The Weeknd",
+            "albumName": "Black Panther The Album Music From And Inspired By",
+            "trackUri": "spotify:track:77UjLW8j5UAGAGVGhR5oUK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+            "artistName": "Jay Rock",
+            "albumName": "Black Panther The Album Music From And Inspired By",
+            "trackUri": "spotify:track:1eLSF6HfrRA0AsNmTkUlKx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Black Panther",
+            "artistName": "Kendrick Lamar",
+            "albumName": "Black Panther The Album Music From And Inspired By",
+            "trackUri": "spotify:track:5qN4HFkapdAOV94XPryVof"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Purple Lamborghini (with Rick Ross)",
+            "artistName": "Skrillex",
+            "albumName": "Suicide Squad: The Album",
+            "trackUri": "spotify:track:1dDh5CNFdRHvkZxxy3CHAI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+            "artistName": "Lil Wayne",
+            "albumName": "Suicide Squad: The Album",
+            "trackUri": "spotify:track:7qUJQSNX9QNf46CC6FgH66"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heathens",
+            "artistName": "Twenty One Pilots",
+            "albumName": "Suicide Squad: The Album",
+            "trackUri": "spotify:track:3vZM2544ETmOCCHuBPZRzm"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Gangsta",
+            "artistName": "Kehlani",
+            "albumName": "Suicide Squad: The Album",
+            "trackUri": "spotify:track:1W7zkKgRv9mrLbfdQ8XyH3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Don't Own Me (feat. G-Eazy)",
+            "artistName": "SAYGRACE",
+            "albumName": "Suicide Squad: The Album",
+            "trackUri": "spotify:track:6Slaf2WBzQA86oS7MNMUNS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Without Me",
+            "artistName": "Eminem",
+            "albumName": "Suicide Squad: The Album",
+            "trackUri": "spotify:track:1dWXQWIjjYWafYgw0zVGnG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wreak Havoc",
+            "artistName": "Skylar Grey",
+            "albumName": "Suicide Squad: The Album",
+            "trackUri": "spotify:track:0ibkMpgLiFiMM68xMDIGIp"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bohemian Rhapsody",
+            "artistName": "Panic! At The Disco",
+            "albumName": "Suicide Squad: The Album",
+            "trackUri": "spotify:track:2YSbHu9XF4bNYWt3MnIhgE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Delicate",
+            "artistName": "Taylor Swift",
+            "albumName": "reputation",
+            "trackUri": "spotify:track:7CneiDesUKFJO3Ix01dnfr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Need To Calm Down",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:6RRNNciQGZEXnqk8SQ9yv5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lover (Remix) [feat. Shawn Mendes]",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover (Remix) [feat. Shawn Mendes]",
+            "trackUri": "spotify:track:3i9UVldZOE0aD0JnyfAZZ0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Blank Space",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:1p80LdxRV74UKvL8gnD7ky"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shake It Off",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:5xTtaWoae3wi06K5WfVUUH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Christmas Tree Farm",
+            "artistName": "Taylor Swift",
+            "albumName": "Christmas Tree Farm",
+            "trackUri": "spotify:track:2mvabkN1i2gLnGAPUVdwek"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+            "artistName": "ZAYN",
+            "albumName": "Fifty Shades Darker",
+            "trackUri": "spotify:track:2y5aJvzXhHPA94U5GFAcXe"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:2Rk4JlNc2TPmZe2af99d45"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lover",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "End Game",
+            "artistName": "Taylor Swift",
+            "albumName": "reputation",
+            "trackUri": "spotify:track:3JbSLr2OhsivV46whJyGeb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lose You To Love Me",
+            "artistName": "Selena Gomez",
+            "albumName": "Lose You To Love Me",
+            "trackUri": "spotify:track:1HfMVBKM75vxSfsQ5VefZ5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love You Like A Love Song",
+            "artistName": "Selena Gomez & The Scene",
+            "albumName": "For You",
+            "trackUri": "spotify:track:5IpKZbfJNefqY6nMejBHjr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hands To Myself",
+            "artistName": "Selena Gomez",
+            "albumName": "Revival",
+            "trackUri": "spotify:track:3CJvmtWw2bJsudbAC5uCQk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Same Old Love",
+            "artistName": "Selena Gomez",
+            "albumName": "Revival",
+            "trackUri": "spotify:track:6ZANrVuAMp2rpjhfbOuJly"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kill Em With Kindness",
+            "artistName": "Selena Gomez",
+            "albumName": "Revival",
+            "trackUri": "spotify:track:7KxhSJOYiqCDclXDBNlFSZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+            "artistName": "DJ Snake",
+            "albumName": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+            "trackUri": "spotify:track:4w8niZpiMy6qz1mntFA5uM"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Don't Talk Anymore (feat. Selena Gomez)",
+            "artistName": "Charlie Puth",
+            "albumName": "Nine Track Mind",
+            "trackUri": "spotify:track:68EMU2RD1ECNeOeJ5qAXCV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Anxiety (with Selena Gomez)",
+            "artistName": "Julia Michaels",
+            "albumName": "Inner Monologue Part 1",
+            "trackUri": "spotify:track:1XJ93XskwJf7PCyIVLbNBt"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "God's Plan",
+            "artistName": "Drake",
+            "albumName": "Scorpion",
+            "trackUri": "spotify:track:6DCZcSspjsKoFjzjrWoCdn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cozy Little Christmas",
+            "artistName": "Katy Perry",
+            "albumName": "Cozy Little Christmas",
+            "trackUri": "spotify:track:02FaKXXL7KUtRc7K0k54tL"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Never Really Over",
+            "artistName": "Katy Perry",
+            "albumName": "Never Really Over",
+            "trackUri": "spotify:track:5PYQUBXc7NYeI1obMKSJK0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Firework",
+            "artistName": "Katy Perry",
+            "albumName": "Katy Perry - Teenage Dream: The Complete Confection",
+            "trackUri": "spotify:track:4lCv7b86sLynZbXhfScfm2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dark Horse",
+            "artistName": "Katy Perry",
+            "albumName": "PRISM",
+            "trackUri": "spotify:track:5jrdCoLpJSvHHorevXBATy"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Last Friday Night (T.G.I.F.)",
+            "artistName": "Katy Perry",
+            "albumName": "Katy Perry - Teenage Dream: The Complete Confection",
+            "trackUri": "spotify:track:455AfCsOhhLPRc68sE01D8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Small Talk",
+            "artistName": "Katy Perry",
+            "albumName": "Small Talk",
+            "trackUri": "spotify:track:4NmE2ytXI8S2svTRSmEdpO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Con Calma - Remix",
+            "artistName": "Daddy Yankee",
+            "albumName": "Con Calma",
+            "trackUri": "spotify:track:4au7FRcgZzChASRYu279xH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Birthday",
+            "artistName": "Katy Perry",
+            "albumName": "PRISM",
+            "trackUri": "spotify:track:2xLOMHjkOK8nzxJ4r6yOKR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Swish Swish",
+            "artistName": "Katy Perry",
+            "albumName": "Swish Swish",
+            "trackUri": "spotify:track:3VRk65lHSwqd90TAkQqhvB"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Déjà Vu",
+            "artistName": "Katy Perry",
+            "albumName": "Witness",
+            "trackUri": "spotify:track:5q9stUg2W38X9PyzgIOdhH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hey Hey Hey",
+            "artistName": "Katy Perry",
+            "albumName": "Witness",
+            "trackUri": "spotify:track:7nY0TjOsD1BZehkZgLiOxO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Talk",
+            "artistName": "Khalid",
+            "albumName": "Talk",
+            "trackUri": "spotify:track:0rTV5WefWd1J3OwIheTzxM"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Young Dumb & Broke",
+            "artistName": "Khalid",
+            "albumName": "American Teen",
+            "trackUri": "spotify:track:5Z3GHaZ6ec9bsiI5BenrbY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Saved",
+            "artistName": "Khalid",
+            "albumName": "American Teen",
+            "trackUri": "spotify:track:248OFOZef6ShXv6DGgbnxU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Robbery",
+            "artistName": "Lime Cordiale",
+            "albumName": "Robbery",
+            "trackUri": "spotify:track:4SRtBFocTtcaWP3etJb7GK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All the Fucking Time",
+            "artistName": "Loote",
+            "albumName": "All the Fucking Time",
+            "trackUri": "spotify:track:4taTrtJjCPpgr4cQR7WMnQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Clean - Stripped",
+            "artistName": "Hey Violet",
+            "albumName": "Clean",
+            "trackUri": "spotify:track:5sRNy6B7zkm1TAqhwkCOfg"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wow.",
+            "artistName": "Post Malone",
+            "albumName": "Wow.",
+            "trackUri": "spotify:track:6MWtB6iiXyIwun0YzU6DFP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Love (feat. Major Lazer, WizKid, Dua Lipa) - Spotify Single Version",
+            "artistName": "Wale",
+            "albumName": "My Love (feat. Major Lazer, WizKid, Dua Lipa)",
+            "trackUri": "spotify:track:1kEOLjp8iAb8WvoiVC9rzi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "No Lie",
+            "artistName": "Sean Paul",
+            "albumName": "No Lie",
+            "trackUri": "spotify:track:1Vb4HQnN2kZ5Y2KgYF5TDV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Electricity (with Dua Lipa)",
+            "artistName": "Silk City",
+            "albumName": "Electricity (with Dua Lipa)",
+            "trackUri": "spotify:track:5N4erncE7kuUccm7zEmwzk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Genesis",
+            "artistName": "Dua Lipa",
+            "albumName": "Dua Lipa",
+            "trackUri": "spotify:track:4P76CEIXrrWT2cgS1YrTMr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lost In Your Light (feat. Miguel)",
+            "artistName": "Dua Lipa",
+            "albumName": "Dua Lipa",
+            "trackUri": "spotify:track:2OWKDTonST8HNko3dBlPPp"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad Together",
+            "artistName": "Dua Lipa",
+            "albumName": "Dua Lipa",
+            "trackUri": "spotify:track:0LwbO2KIQw1uR2FCqwaKAu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Scared to Be Lonely",
+            "artistName": "Martin Garrix",
+            "albumName": "Scared to Be Lonely",
+            "trackUri": "spotify:track:3ebXMykcMXOcLeJ9xZ17XH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kiss and Make Up",
+            "artistName": "Dua Lipa",
+            "albumName": "Dua Lipa",
+            "trackUri": "spotify:track:7jr3iPu4O4bTCVwLMbdU2i"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Start Now",
+            "artistName": "Dua Lipa",
+            "albumName": "Don't Start Now",
+            "trackUri": "spotify:track:6WrI0LAC5M1Rw2MnX2ZvEg"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Future Nostalgia",
+            "artistName": "Dua Lipa",
+            "albumName": "Future Nostalgia",
+            "trackUri": "spotify:track:5Vzpmk27VQ9M77SCkSkERq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad Blood",
+            "artistName": "Taylor Swift",
+            "albumName": "Bad Blood",
+            "trackUri": "spotify:track:6xsEAm6w9oMQYYg3jkEkMT"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tsunami",
+            "artistName": "Katy Perry",
+            "albumName": "Witness",
+            "trackUri": "spotify:track:0frWUvNyEqlfy1WAxBAFbb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rescue Me",
+            "artistName": "OneRepublic",
+            "albumName": "Rescue Me",
+            "trackUri": "spotify:track:0mjAU3yKR1QnXnHtjGJqTM"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Can't Remember to Forget You (feat. Rihanna)",
+            "artistName": "Shakira",
+            "albumName": "Shakira. (Expanded Edition)",
+            "trackUri": "spotify:track:2Sh4sAOfnSHEVKFyysxzat"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Muévelo",
+            "artistName": "Nicky Jam",
+            "albumName": "Muévelo",
+            "trackUri": "spotify:track:4VgYtXCVJ7IbWAZ5ryfvEQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "STUPID (feat. Yung Baby Tate)",
+            "artistName": "Ashnikko",
+            "albumName": "Hi, It's Me",
+            "trackUri": "spotify:track:6qNB2ChCVPepl5ZjVJJTUW"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
