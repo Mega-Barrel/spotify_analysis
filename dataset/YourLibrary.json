@@ -6606,10 +6606,8 @@
       "uri": "spotify:show:5fUv3AsIyYocJm3UFbZSjm"
     }
   ],
-  "episodes": [
-  ],
-  "bannedTracks": [
-  ],
+  "episodes": [],
+  "bannedTracks": [],
   "artists": [
     {
       "name": "*NSYNC",
@@ -9271,9 +9269,5 @@
       "name": "yetep",
       "uri": "spotify:artist:20lmiQy576CSBPz0VJHmnC"
     }
-  ],
-  "bannedArtists": [
-  ],
-  "other": [
   ]
 }
