@@ -1,5 +1,11 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+.vscode
 
 # Environments
 .env
+
+# notebooks
+
+test_plot.ipynb
+playlist_data.ipynb
