@@ -1,11 +1,14 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 .vscode
+.cache
 
-# Environments
+# Python Environments
 .env
 
 # notebooks
-
 test_plot.ipynb
 playlist_data.ipynb
+
+# txt files
+spotify_cred.txt
