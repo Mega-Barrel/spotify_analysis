@@ -1,4 +1,4 @@
-song_id,artist_name,track_name,uri_id,release_date,explicit,type,popularity,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+song_id,artist_name,track_name,uri_id,release_date,type,year,month,day,explicit,popularity,end_time, ms_played,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo
 4PV0uE5pZSh44E3NqNNDEH,Madison Beer,Selfish,spotify:track:4PV0uE5pZSh44E3NqNNDEH,2020-02-14,track,2020,11,17,False,69,2020-11-17 12:42,132290,0.375,0.461,-6.202,0.0279,0.627,0,0.386,0.233,75.217
 4PV0uE5pZSh44E3NqNNDEH,Madison Beer,Selfish,spotify:track:4PV0uE5pZSh44E3NqNNDEH,2020-02-14,track,2020,11,18,False,69,2020-11-18 05:27,68420,0.375,0.461,-6.202,0.0279,0.627,0,0.386,0.233,75.217
 6SBJ2XHc4jm6Abqt7zocMz,Demi Lovato,Still Have Me,spotify:track:6SBJ2XHc4jm6Abqt7zocMz,2020-10-01,track,2020,11,18,False,59,2020-11-18 05:28,11750,0.281,0.462,-6.638,0.0674,0.498,0,0.108,0.367,75.975
