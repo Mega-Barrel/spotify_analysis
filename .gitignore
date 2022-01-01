@@ -7,8 +7,6 @@ __pycache__/
 .env
 
 # notebooks
-test_plot.ipynb
-playlist_data.ipynb
 
 # txt files
 spotify_cred.txt
